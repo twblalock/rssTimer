@@ -1,1 +1,5 @@
 A simple task in several languages: printing the date, title, and link of every item in an RSS feed to STDOUT.
+
+So far node.js seems fastest.
+
+Use ./time.sh [feedUrl] to test.
