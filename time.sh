@@ -6,3 +6,6 @@ time ruby ./ruby/rss.rb $1 > /dev/null
 
 echo -e "\nNode:"
 time node ./node/rss.js $1 > /dev/null
+
+echo -e "\nBash:"
+time ./bash/rss.sh $1 > /dev/null
