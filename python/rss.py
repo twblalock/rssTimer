@@ -1,7 +1,7 @@
 import sys
 import feedparser
 
-url = sys.argv[1]
+url = sys.argv[-1]
 
 feed = feedparser.parse(url)
 
