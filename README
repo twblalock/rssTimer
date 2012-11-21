@@ -3,3 +3,5 @@ A simple task in several languages: printing the date, title, and link of every 
 So far node.js seems fastest.
 
 Use ./time.sh [feedUrl] to test.
+
+BBC News RSS feed: http://feeds.bbci.co.uk/news/rss.xml
